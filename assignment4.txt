@@ -1,0 +1,21 @@
+Assignment 4.Use a TestNG Class : create functions for every task :
+1. Login with valid and invalid credentials
+
+if used valid : Check if user logs in successfully. if used invalid : no further activity should be performed.
+
+2. Check if Account Summary page is displayed with all account types displayed in it with their respective balance amount.
+
+3. Click on Any Type of account check if it goes to Account Activity page.
+check for Account dropdown : check if all the 6 options are present.
+
+4. Click on Transfer Funds Page and transfer some funds
+check if the account amount is debited from and credited to the respective account.
+
+5. Check if logout option is available
+if yes : click on logout
+check if user successfully logs out
+
+6. close the browser
+
+Note : use Assertion , Annotations, Parameterization wherever necessary.http://zero.webappsecurity.com/
+
